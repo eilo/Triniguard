@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TriniGuard">
+</Property><Property Name="Archivo de la solución" Value="C:\opt\emu\triniguard\TriniGuard.sln">
+</Property><Property Name="Date" Value="lunes, 16 de enero de 2012">
+</Property><Property Name="Time" Value="22:29">
+</Property></Properties><Event ErrorLevel="0" Project="TriniGuard v3" Source="TriniGuard\TriniGuard v3.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="TriniGuard v3" Source="TriniGuard\TriniGuard v3.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TriniGuard.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="TriniGuard.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TriniGuard v3" Source="TriniGuard\TriniGuard v3.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

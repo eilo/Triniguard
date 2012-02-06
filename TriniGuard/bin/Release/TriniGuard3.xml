@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TriniGuard3
+</name>
+</assembly>
+<members>
+<member name="P:TriniGuard3.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:TriniGuard3.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:TriniGuard3.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:TriniGuard3.WindowsEnumerator.GetTopLevelWindows">
+	<summary>
+ Get all top-level window information
+ </summary>
+	<returns>List of window information objects</returns>
+</member><member name="M:TriniGuard3.WindowsEnumerator.GetChildWindows(System.Int32)">
+	<summary>
+ Get all child windows for the specific windows handle (hwnd).
+ </summary>
+	<returns>List of child windows for parent window</returns>
+</member><member name="M:TriniGuard3.WindowsEnumerator.EnumWindowProc(System.Int32,System.Int32)">
+	<summary>
+ Callback function that does the work of enumerating top-level windows.
+ </summary>
+	<param name="hwnd">Discovered Window handle</param>
+	<returns>1=keep going, 0=stop</returns>
+</member><member name="M:TriniGuard3.WindowsEnumerator.EnumChildWindowProc(System.Int32,System.Int32)">
+	<summary>
+ Callback function that does the work of enumerating child windows.
+ </summary>
+	<param name="hwnd">Discovered Window handle</param>
+	<returns>1=keep going, 0=stop</returns>
+</member><member name="M:TriniGuard3.WindowsEnumerator.GetWindowIdentification(System.Int32)">
+	<summary>
+ Build the ApiWindow object to hold information about the Window object.
+ </summary>
+</member><member name="T:TriniGuard3.WindowsEnumerator">
+	<summary> 
+ Enumerate top-level and child windows 
+ </summary>
+	<example> 
+ Dim enumerator As New WindowsEnumerator()
+ For Each top As ApiWindow in enumerator.GetTopLevelWindows()
+    Console.WriteLine(top.MainWindowTitle)
+    For Each child As ApiWindow child in enumerator.GetChildWindows(top.hWnd) 
+        Console.WriteLine(" " + child.MainWindowTitle)
+    Next child
+ Next top
+ </example>
+</member>
+</members>
+</doc>

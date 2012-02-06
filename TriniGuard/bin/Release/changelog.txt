@@ -1,0 +1,21 @@
+#####################################################
+# TriniGuard v3 Change Log
+# Last Updated: 18/03/2010 11:30 AM
+#
+# TriniGuard Created by Mike Carter
+# Copyright 2009 - 2010
+#####################################################
+
+
+CHANGE LOG
+----------
+
+18 MAR 2010	11:30AM	VERSION: 3	REV: 2
+	- Added ability to disable scheduler (via config screen).
+	- Fixed some faded icons
+	- Some code clean up
+
+16 MAR 2010	9:00AM	VERSION: 3	REV: 1
+	- Initial Release of v3 (out of beta).
+
+

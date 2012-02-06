@@ -1,0 +1,65 @@
+C:\Sources\TriniGuard v3\TriniGuard\bin\Release\SmoothProgressBar.resx
+C:\Sources\TriniGuard v3\TriniGuard\bin\Release\SmoothProgressBar.vb
+C:\Sources\TriniGuard v3\TriniGuard\bin\Release\TriniGuard3.exe.config
+C:\Sources\TriniGuard v3\TriniGuard\bin\Release\TriniGuard3.exe
+C:\Sources\TriniGuard v3\TriniGuard\bin\Release\TriniGuard3.pdb
+C:\Sources\TriniGuard v3\TriniGuard\bin\Release\TriniGuard3.xml
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\ResolveAssemblyReference.cache
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\TriniGuard3.DlgConfig.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\TriniGuard3.FrmMain.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\TriniGuard3.Resources.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\TriniGuard3.SmoothProgressBar.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\TriniGuard3.AboutBox1.resources
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\TriniGuard v3.vbproj.GenerateResource.Cache
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\TriniGuard3.exe
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\TriniGuard3.xml
+C:\Sources\TriniGuard v3\TriniGuard\obj\Release\TriniGuard3.pdb
+C:\Sources\TriniGuard3\TriniGuard\bin\Release\TriniGuard3.exe.config
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\TriniGuard3.exe
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\TriniGuard3.xml
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\TriniGuard3.pdb
+C:\Sources\TriniGuard3\TriniGuard\bin\Release\SmoothProgressBar.resx
+C:\Sources\TriniGuard3\TriniGuard\bin\Release\SmoothProgressBar.vb
+C:\Sources\TriniGuard3\TriniGuard\bin\Release\TriniGuard3.exe
+C:\Sources\TriniGuard3\TriniGuard\bin\Release\TriniGuard3.pdb
+C:\Sources\TriniGuard3\TriniGuard\bin\Release\TriniGuard3.xml
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\ResolveAssemblyReference.cache
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\TriniGuard3.DlgConfig.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\TriniGuard3.FrmMain.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\TriniGuard3.Resources.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\TriniGuard3.SmoothProgressBar.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\TriniGuard3.AboutBox1.resources
+C:\Sources\TriniGuard3\TriniGuard\obj\Release\TriniGuard v3.vbproj.GenerateResource.Cache
+C:\Sources\TriniGuard\TriniGuard\bin\Release\SmoothProgressBar.resx
+C:\Sources\TriniGuard\TriniGuard\bin\Release\SmoothProgressBar.vb
+C:\Sources\TriniGuard\TriniGuard\bin\Release\TriniGuard3.exe.config
+C:\Sources\TriniGuard\TriniGuard\bin\Release\TriniGuard3.exe
+C:\Sources\TriniGuard\TriniGuard\bin\Release\TriniGuard3.pdb
+C:\Sources\TriniGuard\TriniGuard\bin\Release\TriniGuard3.xml
+C:\Sources\TriniGuard\TriniGuard\obj\Release\ResolveAssemblyReference.cache
+C:\Sources\TriniGuard\TriniGuard\obj\Release\TriniGuard3.DlgConfig.resources
+C:\Sources\TriniGuard\TriniGuard\obj\Release\TriniGuard3.FrmMain.resources
+C:\Sources\TriniGuard\TriniGuard\obj\Release\TriniGuard3.Resources.resources
+C:\Sources\TriniGuard\TriniGuard\obj\Release\TriniGuard3.SmoothProgressBar.resources
+C:\Sources\TriniGuard\TriniGuard\obj\Release\TriniGuard3.AboutBox1.resources
+C:\Sources\TriniGuard\TriniGuard\obj\Release\TriniGuard v3.vbproj.GenerateResource.Cache
+C:\Sources\TriniGuard\TriniGuard\obj\Release\TriniGuard3.exe
+C:\Sources\TriniGuard\TriniGuard\obj\Release\TriniGuard3.xml
+C:\Sources\TriniGuard\TriniGuard\obj\Release\TriniGuard3.pdb
+C:\opt\emu\triniguard\TriniGuard\bin\Release\TriniGuard3.exe.config
+C:\opt\emu\triniguard\TriniGuard\obj\Release\TriniGuard3.exe
+C:\opt\emu\triniguard\TriniGuard\obj\Release\TriniGuard3.xml
+C:\opt\emu\triniguard\TriniGuard\obj\Release\TriniGuard3.pdb
+C:\opt\emu\triniguard\TriniGuard\bin\Release\SmoothProgressBar.resx
+C:\opt\emu\triniguard\TriniGuard\bin\Release\SmoothProgressBar.vb
+C:\opt\emu\triniguard\TriniGuard\bin\Release\TriniGuard3.exe
+C:\opt\emu\triniguard\TriniGuard\bin\Release\TriniGuard3.pdb
+C:\opt\emu\triniguard\TriniGuard\bin\Release\TriniGuard3.xml
+C:\opt\emu\triniguard\TriniGuard\obj\Release\ResolveAssemblyReference.cache
+C:\opt\emu\triniguard\TriniGuard\obj\Release\TriniGuard3.DlgConfig.resources
+C:\opt\emu\triniguard\TriniGuard\obj\Release\TriniGuard3.FrmMain.resources
+C:\opt\emu\triniguard\TriniGuard\obj\Release\TriniGuard3.Resources.resources
+C:\opt\emu\triniguard\TriniGuard\obj\Release\TriniGuard3.SmoothProgressBar.resources
+C:\opt\emu\triniguard\TriniGuard\obj\Release\TriniGuard3.AboutBox1.resources
+C:\opt\emu\triniguard\TriniGuard\obj\Release\GenerateResource.read.1.tlog
+C:\opt\emu\triniguard\TriniGuard\obj\Release\GenerateResource.write.1.tlog
